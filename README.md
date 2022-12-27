@@ -34,9 +34,4 @@ Flutter, Dart
 ## Screenshots
 
 
-![App Screenshot](images/Screenshot1.png)
-
-![App Screenshot](images/Screenshot2.png)
-
-![App Screenshot](images/Screenshot3.png)
 
